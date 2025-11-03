@@ -33,6 +33,7 @@ body::-webkit-scrollbar-thumb:hover {
 	padding: 10px 0px;
 	min-height: 100vh;
 	z-index: 2;
+	position:fixed;
 }
 
 .side-bar .menus li a i {
